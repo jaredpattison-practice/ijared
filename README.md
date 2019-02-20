@@ -7,7 +7,7 @@
 
 
 ### Links and Resources
-* [repo](https://github.com)
+* [repo](https://github.com/jaredpattison/ijared)
 
 ### Description:
 Creat a React-native app. 
